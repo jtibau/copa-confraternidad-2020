@@ -1,6 +1,6 @@
 ## Copa Confraternidad 2020
 
-![Figura de tenista](noun_Tennis_2831357.png =100x)
+![Figura de tenista](noun_Tennis_2831357.png =100x100)
 
 El día 21 de Noviembre de 2020 celebramos este torneo de ténis en la ESPOL, en honor a la amistad y festejando a nuestro compañero Albert Espinal por su cumpleaños.
 
