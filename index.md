@@ -40,3 +40,9 @@ Javier & Carlos|Tino & José Luis|
 #### 12h00 Partido de Exhibición
 
 #### 13h00 Ceremonias de Premiación y Almuerzo
+
+
+**Equipo 1**|**Equipo 2**|**Resultado**
+:-----:|:-----:|:-----:
+Albert & Francisco|Tino & José Luis|	
+Guido & Fernando|Javier & Carlos| 
