@@ -15,7 +15,7 @@ Habiendose establecido cuatro parejas de dobles, tenemos a los siguientes equipo
 
 ### Formato
 
-Según lo acordado, cada partido de dobles consistirá de un pro-set de 8 games, con punto de oro y tie-break en caso de llegar a un empate a 7. Contribuirán en el arbitraje Néstor Flores y Homar Flores.
+Según lo acordado, cada partido de dobles consistirá de un pro-set de 8 games, con punto de oro y tie-break en caso de llegar a un empate a 7. Contribuirán en el arbitraje Néstor Flores y Omar Flores.
 
 ### Agenda
 
