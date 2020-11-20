@@ -29,16 +29,22 @@ Guido & Fernando|Javier & Carlos|
 
 
 #### 09h00 Partidos
+
+
 **Equipo 1**|**Equipo 2**|**Resultado**
 :-----:|:-----:|:-----:
-Albert & Francisco|Javier & Carlos| 
-Guido & Fernando|Tino & José Luis| 
+Albert & Francisco|Javier & Carlos|	
+Guido & Fernando|Tino & José Luis|	
+
 
 #### 10h30 Partidos 
+
+
 **Equipo 1**|**Equipo 2**|**Resultado**
 :-----:|:-----:|:-----:
 Albert & Francisco|Guido & Fernando| 
 Javier & Carlos|Tino & José Luis| 
+
 
 #### 12h00 Partido de Exhibición
 
