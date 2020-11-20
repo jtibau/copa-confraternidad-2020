@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Copa Confraternidad 2020
 
-You can use the [editor on GitHub](https://github.com/jtibau/copa-confraternidad-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+El día 21 de Noviembre de 2020 celebramos este torneo de ténis en la ESPOL, en honor a la amistad y festejando a nuestro compañero Albert Espinal por su cumpleaños.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Equipos
 
-### Markdown
+Habiendose establecido cuatro parejas de dobles, tenemos a los siguientes equipos participantes:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Albert Espinal y Francisco Medina
+- Guido Caicedo y Fernando Tenesaca
+- Javier Tibau y Carlos Salazar
+- Constantino Tobalina y José Luis Santos
 
-```markdown
-Syntax highlighted code block
+### Formato
 
-# Header 1
-## Header 2
-### Header 3
+Según lo acordado, cada partido de dobles consistirá de un pro-set de 8 games, con punto de oro y tie-break en caso de llegar a un empate a 7. Contribuirán en el arbitraje Nestor Flores y Homar Flores.
 
-- Bulleted
-- List
+### Agenda
 
-1. Numbered
-2. List
+#### 07h30 Partidos
+- Albert & Francisco vs. Tino & José Luis
+- Guido & Fernando vs. Javier & Carlos
 
-**Bold** and _Italic_ and `Code` text
+#### 09h00 Partidos 
+- Albert & Francisco vs. Javier & Carlos
+- Guido & Fernando vs. Tino & José Luis
 
-[Link](url) and ![Image](src)
-```
+#### 10h30 Partidos 
+- Albert & Francisco vs. Guido & Fernando
+- Javier & Carlos vs. Tino & José Luis
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 12h00 Partido de Exhibición
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jtibau/copa-confraternidad-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 13h00 Ceremonias de Premiación y Almuerzo
