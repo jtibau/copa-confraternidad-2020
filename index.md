@@ -9,7 +9,7 @@ El día 21 de Noviembre de 2020 celebramos este torneo de ténis en la ESPOL, en
 Habiendose establecido cuatro parejas de dobles, tenemos a los siguientes equipos participantes:
 
 - Albert Espinal y Francisco Medina
-- Guido Caicedo y Fernando Tenesaca
+- Guido Caicedo y Fernando Escobar
 - Javier Tibau y Carlos Salazar
 - Constantino Tobalina y José Luis Santos
 
