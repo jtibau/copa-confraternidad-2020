@@ -1,4 +1,4 @@
-## Copa Confraternidad ![](noun_Tennis_2831357.png) 2020
+## Copa Confraternidad ![](noun_Tennis_2831357.png?display=inline-block) 2020
 
 
 
