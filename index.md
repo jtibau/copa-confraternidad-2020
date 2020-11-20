@@ -31,6 +31,11 @@ Según lo acordado, cada partido de dobles consistirá de un pro-set de 8 games,
 - Albert & Francisco vs. Guido & Fernando
 - Javier & Carlos vs. Tino & José Luis
 
+**Equipo 1**|**Equipo 2**|**Resultado**
+:-----:|:-----:|:-----:
+asdf|asdf| 
+asdf|asdf| 
+
 #### 12h00 Partido de Exhibición
 
 #### 13h00 Ceremonias de Premiación y Almuerzo
