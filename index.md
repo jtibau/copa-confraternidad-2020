@@ -21,19 +21,19 @@ Según lo acordado, cada partido de dobles consistirá de un pro-set de 8 games,
 
 #### 07h30 Partidos
 |                    |                  | Resultado |
-| ------------------ | ---------------- | --------- |
+| :----------------- | :--------------: | --------: |
 | Albert & Francisco | Tino & José Luis |  |
 | Guido & Fernando   | Javier & Carlos  |  |
 
 #### 09h00 Partidos 
 |                    |                  | Resultado |
-| ------------------ | ---------------- | --------- |
+| :----------------- | :--------------: | --------: |
 | Albert & Francisco | Javier & Carlos  |  |
 | Guido & Fernando   | Tino & José Luis |  |
 
 #### 10h30 Partidos 
 |                    |                  | Resultado |
-| ------------------ | ---------------- | --------- |
+| :----------------- | :--------------: | --------: |
 | Albert & Francisco | Guido & Fernando |  |
 | Javier & Carlos    | Tino & José Luis |  |
 
