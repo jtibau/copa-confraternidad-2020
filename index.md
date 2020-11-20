@@ -15,27 +15,21 @@ Habiendose establecido cuatro parejas de dobles, tenemos a los siguientes equipo
 
 ### Formato
 
-Según lo acordado, cada partido de dobles consistirá de un pro-set de 8 games, con punto de oro y tie-break en caso de llegar a un empate a 7. Contribuirán en el arbitraje Nestor Flores y Homar Flores.
+Según lo acordado, cada partido de dobles consistirá de un pro-set de 8 games, con punto de oro y tie-break en caso de llegar a un empate a 7. Contribuirán en el arbitraje Néstor Flores y Homar Flores.
 
 ### Agenda
 
 #### 07h30 Partidos
-Equipo 1 | Equipo 2 | Resultado
---- | --- | ---
-Albert & Francisco | Tino & José Luis |  
-Guido & Fernando   | Javier & Carlos  | 
+- Albert & Francisco vs. Tino & José Luis
+- Guido & Fernando vs. Javier & Carlos
 
 #### 09h00 Partidos
-Equipo 1 | Equipo 2 | Resultado
---- | --- | ---
-Albert & Francisco | Javier & Carlos  | 
-Guido & Fernando   | Tino & José Luis | 
+- Albert & Francisco vs. Javier & Carlos
+- Guido & Fernando vs. Tino & José Luis 
 
 #### 10h30 Partidos 
-Equipo 1 | Equipo 2 | Resultado
---- | --- | ---
-Albert & Francisco | Guido & Fernando | 
-Javier & Carlos    | Tino & José Luis | 
+- Albert & Francisco vs. Guido & Fernando
+- Javier & Carlos vs. Tino & José Luis
 
 #### 12h00 Partido de Exhibición
 
