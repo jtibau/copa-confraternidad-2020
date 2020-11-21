@@ -33,8 +33,8 @@ Albert & Francisco|**Tino & José Luis**| 4-8
 
 **Equipo 1**|**Equipo 2**|**Resultado**
 :-----:|:-----:|:-----:
-Albert & Francisco|Javier & Carlos|	
-Guido & Fernando|Tino & José Luis|	
+**Albert & Francisco**|Javier & Carlos| 8-6
+**Guido & Fernando**|Tino & José Luis| 8-1
 
 
 #### 10h30 Partidos 
