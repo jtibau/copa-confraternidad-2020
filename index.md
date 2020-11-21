@@ -2,11 +2,11 @@
 
 <img src="./noun_Tennis_2831357.png" width="100">
 
-El día 21 de Noviembre de 2020 celebramos este torneo de ténis en la ESPOL, en honor a la amistad y festejando a nuestro compañero Albert Espinal por su cumpleaños.
+El día 21 de Noviembre de 2020 celebramos este torneo de tenis en la ESPOL, en honor a la amistad y festejando a nuestro compañero Albert Espinal por su cumpleaños.
 
 ### Equipos
 
-Habiendose establecido cuatro parejas de dobles, tenemos a los siguientes equipos participantes:
+Habiéndose establecido cuatro parejas de dobles, tenemos a los siguientes equipos participantes:
 
 - Albert Espinal y Francisco Medina
 - Guido Caicedo y Fernando Escobar
