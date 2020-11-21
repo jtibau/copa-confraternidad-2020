@@ -42,12 +42,12 @@ Albert & Francisco|**Tino & José Luis**| 4-8
 
 **Equipo 1**|**Equipo 2**|**Resultado**
 :-----:|:-----:|:-----:
-Albert & Francisco|Guido & Fernando| 
-Javier & Carlos|Tino & José Luis| 
+Albert & Francisco|**Guido & Fernando**| 6-8
+**Javier & Carlos**|Tino & José Luis| 8-4
 
 
 #### 12h00 Partido de Exhibición
 
 #### 13h00 Ceremonias de Premiación y Almuerzo
 
-
+## Campeones: Guido Caicedo & Fernando Escobar
