@@ -24,8 +24,8 @@ Según lo acordado, cada partido de dobles consistirá de un pro-set de 8 games,
 
 **Equipo 1**|**Equipo 2**|**Resultado**
 :-----:|:-----:|:-----:
-Albert & Francisco|Tino & José Luis|	
-Guido & Fernando|Javier & Carlos| 
+Albert & Francisco|**Tino & José Luis**| 4-8
+**Guido & Fernando**|Javier & Carlos| 8-6
 
 
 #### 09h00 Partidos
