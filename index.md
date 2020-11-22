@@ -1,53 +1,33 @@
-## Copa Confraternidad 2020
+## Campeonato Singles 2020
 
-<img src="./noun_Tennis_2831357.png" width="100">
+<img src="./images/noun_tennis.png" width="100">
 
-El día 21 de Noviembre de 2020 celebramos este torneo de tenis en la ESPOL, en honor a la amistad y festejando a nuestro compañero Albert Espinal por su cumpleaños.
+### Grupos
 
-### Equipos
+#### Grupo 1
 
-Habiéndose establecido cuatro parejas de dobles, tenemos a los siguientes equipos participantes:
+- José Luis Santos
+- Carlos Salazar
+- Guido Caicedo
+- Javier Tibau
+- NN (Amigo de Carlos)
 
-- Albert Espinal y Francisco Medina
-- Guido Caicedo y Fernando Escobar
-- Javier Tibau y Carlos Salazar
-- Constantino Tobalina y José Luis Santos
+#### Grupo 2
+
+- Lenín Freire
+- Constantino Tobalina
+- Fernando Escobar
+- Albert Espinal
+- Eduardo Cruz
+
 
 ### Formato
 
-Según lo acordado, cada partido de dobles consistirá de un pro-set de 8 games, con punto de oro y tie-break en caso de llegar a un empate a 7. Contribuirán en el arbitraje Néstor Flores y Omar Flores.
+Los partidos consistirán de un set de 6 games con punto de oro. De la fase de grupos saldrán los dos mejores de cada grupo para jugar semifinales y una final.
 
 ### Agenda
 
-#### 07h30 Partidos
+En construcción.
 
-
-**Equipo 1**|**Equipo 2**|**Resultado**
-:-----:|:-----:|:-----:
-Albert & Francisco|**Tino & José Luis**| 4-8
-**Guido & Fernando**|Javier & Carlos| 8-6
-
-
-#### 09h00 Partidos
-
-
-**Equipo 1**|**Equipo 2**|**Resultado**
-:-----:|:-----:|:-----:
-**Albert & Francisco**|Javier & Carlos| 8-6
-**Guido & Fernando**|Tino & José Luis| 8-1
-
-
-#### 10h30 Partidos 
-
-
-**Equipo 1**|**Equipo 2**|**Resultado**
-:-----:|:-----:|:-----:
-Albert & Francisco|**Guido & Fernando**| 6-8
-**Javier & Carlos**|Tino & José Luis| 8-4
-
-
-#### 12h00 Partido de Exhibición
-
-#### 13h00 Ceremonias de Premiación y Almuerzo
-
-## Campeones: Guido Caicedo & Fernando Escobar
+### Campeonatos Anteriores
+- [Campeonato de Dobles 2020](2020.dobles.md)
