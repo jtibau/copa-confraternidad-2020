@@ -30,4 +30,4 @@ Los partidos consistirán de un set de 6 games con punto de oro. De la fase de g
 En construcción.
 
 ### Campeonatos Anteriores
-- [Campeonato de Dobles 2020](2020.dobles.md)
+- [Campeonato de Dobles 2020](2020-dobles.md)
