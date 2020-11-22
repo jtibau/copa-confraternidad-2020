@@ -10,7 +10,7 @@
 - Carlos Salazar
 - Guido Caicedo
 - Javier Tibau
-- NN (Amigo de Carlos)
+- Patricio Salazar
 
 #### Grupo 2
 
