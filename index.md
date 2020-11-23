@@ -1,3 +1,8 @@
+<style type='text/css'>
+    td { text-align: center; }
+</style>
+
+
 ## Campeonato Singles 2020
 
 <img src="./images/noun_tennis.png" width="100">
@@ -27,7 +32,7 @@ Los partidos consistirán de un solo set normal. De la fase de grupos saldrán l
 
 ### Partidos y Resultados
 
-*Al leer los resultados se presenta primero el score del jugador de fila y después del de la columna*
+*Al leer los resultados se presenta primero el score del jugador de fila y después del de la columna.*
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Grupo 1</th>
@@ -56,7 +61,7 @@ Los partidos consistirán de un solo set normal. De la fase de grupos saldrán l
 <td>Javier</td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td>6-3</td>
 <td colspan=2 style="background-color:grey"></td>
 </tr>
 <tr>
