@@ -23,11 +23,28 @@
 
 ### Formato
 
-Los partidos consistirán de un set de 6 games con punto de oro. De la fase de grupos saldrán los dos mejores de cada grupo para jugar semifinales y una final.
+Los partidos consistirán de un solo set normal. De la fase de grupos saldrán los dos mejores de cada grupo para jugar semifinales y una final.
 
-### Agenda
+### Partidos y Resultados
 
-En construcción.
+*Al leer los resultados se presenta primero el score del jugador de fila y después del de la columna*
+
+|Grupo 1 |José|Carlos|Guido|Javier|Patricio|
+|--------|----|------|-----|------|--------|
+|José    |-   |      |     |      |        |
+|Carlos  |    |-     |     |      |        |
+|Guido   |    |      |-    |      |        |
+|Javier  |    |      |     |-     |        |
+|Patricio|    |      |     |      |-       |
+
+
+|Grupo 2 |Lenín|Tino|Fernando|Albert|Eduardo|
+|--------|-----|----|--------|------|-------|
+|Lenín   |-    |    |        |      |       |
+|Tino    |     |-   |        |      |       |
+|Fernando|     |    |-       |      |       |
+|Albert  |     |    |        |-     |       |
+|Eduardo |     |    |        |      |-      |
 
 ### Campeonatos Anteriores
 - [Campeonato de Dobles 2020](2020-dobles.md)
