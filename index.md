@@ -29,22 +29,86 @@ Los partidos consistirán de un solo set normal. De la fase de grupos saldrán l
 
 *Al leer los resultados se presenta primero el score del jugador de fila y después del de la columna*
 
-|Grupo 1 |José|Carlos|Guido|Javier|Patricio|
-|--------|----|------|-----|------|--------|
-|José    |-   |      |     |      |        |
-|Carlos  |    |-     |     |      |        |
-|Guido   |    |      |-    |      |        |
-|Javier  |    |      |     |-     |        |
-|Patricio|    |      |     |      |-       |
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Grupo 1</th>
+<th title="Field #2">José</th>
+<th title="Field #3">Carlos</th>
+<th title="Field #4">Guido</th>
+<th title="Field #5">Javier</th>
+<th title="Field #6">Patricio</th>
+</tr></thead>
+<tbody><tr>
+<td>José</td>
+<td colspan=5 style="background-color:grey"></td>
+</tr>
+<tr>
+<td>Carlos</td>
+<td> </td>
+<td colspan=4 style="background-color:grey"></td>
+</tr>
+<tr>
+<td>Guido</td>
+<td> </td>
+<td> </td>
+<td colspan=3 style="background-color:grey"></td>
+</tr>
+<tr>
+<td>Javier</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td colspan=2 style="background-color:grey"></td>
+</tr>
+<tr>
+<td>Patricio</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td style="background-color:grey"></td>
+</tr>
+</tbody></table>
 
 
-|Grupo 2 |Lenín|Tino|Fernando|Albert|Eduardo|
-|--------|-----|----|--------|------|-------|
-|Lenín   |-    |    |        |      |       |
-|Tino    |     |-   |        |      |       |
-|Fernando|     |    |-       |      |       |
-|Albert  |     |    |        |-     |       |
-|Eduardo |     |    |        |      |-      |
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Grupo 2</th>
+<th title="Field #2">Lenín</th>
+<th title="Field #3">Tino</th>
+<th title="Field #4">Fernando</th>
+<th title="Field #5">Albert</th>
+<th title="Field #6">Eduardo</th>
+</tr></thead>
+<tbody><tr>
+<td>Lenín</td>
+<td colspan=5 style="background-color:grey"></td>
+</tr>
+<tr>
+<td>Tino</td>
+<td> </td>
+<td colspan=4 style="background-color:grey"></td>
+</tr>
+<tr>
+<td>Fernando</td>
+<td> </td>
+<td> </td>
+<td colspan=3 style="background-color:grey"></td>
+</tr>
+<tr>
+<td>Albert</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td colspan=2 style="background-color:grey"></td>
+</tr>
+<tr>
+<td>Eduardo</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td style="background-color:grey"></td>
+</tr>
+</tbody></table>
 
 ### Campeonatos Anteriores
 - [Campeonato de Dobles 2020](2020-dobles.md)
