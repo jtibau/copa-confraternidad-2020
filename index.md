@@ -68,7 +68,7 @@ Los partidos consistirán de un solo set normal. De la fase de grupos saldrán l
 <td>Patricio</td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td>7-6</td>
 <td> </td>
 <td style="background-color:grey"></td>
 </tr>
