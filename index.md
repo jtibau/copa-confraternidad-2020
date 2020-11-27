@@ -48,7 +48,7 @@ Los partidos consistirán de un solo set normal. De la fase de grupos saldrán l
 </tr>
 <tr>
 <td>Carlos</td>
-<td> </td>
+<td>7-6</td>
 <td colspan=4 style="background-color:grey"></td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ Los partidos consistirán de un solo set normal. De la fase de grupos saldrán l
 </tr>
 <tr>
 <td>Tino</td>
-<td> </td>
+<td>6-1</td>
 <td colspan=4 style="background-color:grey"></td>
 </tr>
 <tr>
@@ -101,14 +101,14 @@ Los partidos consistirán de un solo set normal. De la fase de grupos saldrán l
 <tr>
 <td>Albert</td>
 <td> </td>
-<td> </td>
+<td>3-6</td>
 <td> </td>
 <td colspan=2 style="background-color:grey"></td>
 </tr>
 <tr>
 <td>Eduardo</td>
 <td> </td>
-<td> </td>
+<td>1-6</td>
 <td> </td>
 <td>0-6</td>
 <td style="background-color:grey"></td>
